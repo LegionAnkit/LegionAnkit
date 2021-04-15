@@ -24,5 +24,8 @@ Linkedin:- http://www.linkedin.com/in/legionankit
   <img height ="48" src="https://user-images.githubusercontent.com/54438663/114390459-eea25780-9bb3-11eb-916a-0d5ad27a8866.png"> 
   <img height="48" src="https://user-images.githubusercontent.com/54438663/114387085-aa14bd00-9baf-11eb-93f8-95557c20c8fd.png"> 
   <img height="48" src="https://user-images.githubusercontent.com/54438663/114389807-180eb380-9bb3-11eb-9f60-50f10fdbdc9d.png">
+  <img height="48" src="https://user-images.githubusercontent.com/54438663/114825084-61dde080-9de3-11eb-89e9-fc4964a0f155.png">
+  <img height="48" src="https://user-images.githubusercontent.com/54438663/114825219-8e91f800-9de3-11eb-9198-ca1eb0e50b2d.png">
+  <img height="48" src="https://user-images.githubusercontent.com/54438663/114825541-fc3e2400-9de3-11eb-93c2-50a9e4115596.png">
 </div>
 
