@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ankit Pandey. I love to tinker with topics realted to Web development, robust backend structures, Machine Learning (bots) and web deployed apps. Curiosity and adventure from these things are the driving force for my workspace and life. I like to work on exciting projects which expands my domain through knowledge and progressive level of work.     
+My name is Ankit Pandey. I love to tinker with topics realted to Web development, robust backend structures, Machine Learning and web deployed apps. Curiosity and adventure from these things are the driving force for my workspace and life. I like to work on exciting projects which expands my domain through knowledge and progressive level of work.     
 
 ## I’m currently working on 💻
 
