@@ -8,7 +8,8 @@ Backend structures, Machine leaening prjects. Im always open to work on web apps
 
 ## I’m currently learning 📚 👨‍🎓
 
-Machine Learning and Deep learning with Python and contributing in open source projects.
+- Machine Learning and Deep learning with Python
+- Cloud and web services
 
 ## How to reach me:📫 
 
