@@ -8,7 +8,7 @@ Backend structures, Machine learning projects. Im always open to work on web app
 
 ## I’m currently learning 📚 👨‍🎓
 
-- Machine Learning and Deep learning with Python
+- Frontend and Server based language (React, Dart and Node.js)
 - Cloud and web services
 
 ## How to reach me:📫 
