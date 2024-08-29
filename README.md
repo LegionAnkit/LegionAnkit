@@ -1,15 +1,10 @@
 ## Hi there 👋
 
-My name is Ankit Pandey. I love to tinker with topics related to Web development, robust backend structures, Machine Learning and web deployed apps. Curiosity and adventure from these things are the driving force for my workspace and life. I like to work on exciting projects which expands my domain through knowledge and progressive level of work.     
+My name is Ankit Pandey. I love to tinker with topics related to Java Web Applications, robust backend structures, database structures and development life-cycle. Curiosity and adventure from these things are the driving force for my workspace and life. I like to work on exciting projects which expands my domain through knowledge and progressive level of work.     
 
 ## I’m currently working on 💻
 
-Backend structures, Machine learning projects. Im always open to work on web apps and web development based projects too, but right now im focusing on Machine learning and Deep leanrng projects 😃.
-
-## I’m currently learning 📚 👨‍🎓
-
-- Frontend and Server based language (React, Dart and Node.js)
-- Cloud and web services
+Springboot and java based applications. Im always open to work on web apps and web development based projects too, but right now im focusing on full development life-cycle😃.
 
 ## How to reach me:📫 
 
